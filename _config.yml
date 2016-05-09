@@ -1,0 +1,28 @@
+name: wongy
+favicon: null
+layout_spectrum: 0.31434537493623793
+typography_spectrum: 0.4563014437444508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15435261861421168
+  lightness: 0.9235496004112065
+  saturation: 0.43635387858375907
+  rhythmicContrast: 0.4702608303632587
+purpose: []
